@@ -16,4 +16,4 @@ I’d like to know the methods and indicators used to infer the presence of serp
 
 **Reply:** “All of the above.”
 
-**Results:** 
+**Results:** https://github.com/Magnus-Chan/AI-Supercharged/blob/43f0cf57163c71327c486217ab86302169c40caf/Serpentinization%20on%20Exoplanets_%20Indicators%20and%20Inference%20Methods.pdf
