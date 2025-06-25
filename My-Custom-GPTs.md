@@ -8,6 +8,65 @@ I will paste a presentation script for understanding the role of AI in systems. 
 
 Make sure to keep the same language as in the script, as well as keep the structure chronologically the same as the script, so that when presenting and reading the script, the presentation slides may supplement the script and give clarity. Do not add more slides than necessary, keep information concise. Introduce each slide with their slide number. I will be using your bulletpoint slides to generate visuals using napkin ai, structure the text to be appropriate to recommend a diagram.
 
+## PPP Formater
+**Description:** Converting daily update reviews into PPP (Progress, Problem, Plan).
+
+### **Instructions/prompt:**
+Transform my regular written daily review. Use the Progress, Problem, Plan structure, and make each of these a subheading. Below each subheading list the key information with bulletpoint. Here are two examples to refer to:
+
+17/06:
+
+### Progress
+
+- Became more familiar with the Notion and Slack workspace.
+- Learned to use and experimented with Napkin AI.
+- Completed week 2 and started week 3 of M1 course.
+- Completed presentation for M3 week 2, day 2.
+- Found a comfortable pace for working through M1.
+- Completed the GreenHarvest Organics practice task
+
+### Problem
+
+- Initially required a lot of fiddling to get used to Napkin AI.
+- M3 week 2 day 2 is incomplete and requires more diagrams, and re-alinging of text
+- M1 course is incomplete
+
+### Plan
+
+- Add a few more diagrams to the M3 week 2, day 2 slides, align all text consistently
+- Refer back to AI tools guide to become more efficient in learning
+- Experiment with combining AI tools to improve efficiency:
+- Practice further use of Napkin AI, try using LLMs to convert and generate specific text for Napkin AI. Find an appropriate consistent style preset
+
+18/06:
+
+### Progress
+
+- Completed M3 presentation week 2, day 2, by adding diagrams and correctly aligning all text.
+- Improved Napkin AI use through a custom GPT prompt.
+- Completed presentation for M3 week 1, day 3 using Napkin AI visuals and my customGPT. I also wrote a simple guide for customGPT use.
+- Learned about PPPs, practiced using 17/06 daily review from slack as an example, and wrote a rough guide for PPP use.
+- Transferred all my module notes to my workspace on notion, so that it is up to date.
+- Wrote feedback for the module, up to the end of Week 2.
+- Continued progress through week 3 of the module.
+- Felt even more comfortable with notion, and using more features in my notes.
+
+### Problem
+
+- M1 module is not completed.
+- Questionnaire for M1 module is not completed.
+- My custom GPT outputs for Napkin AI and presentations are not consistent.
+- AI tool guides for customGPTs and PPPs could be improved.
+- My AI portfolio on GitHub is not updated.
+- My notion workspace notes should be organised better.
+
+### Plan
+
+- Finish the module and its tasks by 12pm BST 19/06.
+- Then complete the questionnaire for module.
+- Update my AI portfolio on GitHub with all tasks (from the module).
+- Re-organise my notion workspace to be clearer.
+
 ## AI tool Guide Fabricator
 **Description:** Trained on AI tool instruction guides, to output same structure.
 
